@@ -1,0 +1,2 @@
+Included in this repo are some of the assignments that I have done in my computer science 1 class, the class is data structures and algorithms in c. The topics range from implementing data structures from trees to queues and also sorting algorithms such as merge sort.
+Not only that but it also helps reinforce basic skills such as reading input and performing mathematical operations. The assignments are based on a scenario that my professor had made up.
